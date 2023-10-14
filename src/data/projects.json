@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Covid-19 Detection",
+      "imageSrc": "projects/project6.png",
+      "description": "This project, executed in Python and employing six cutting-edge deep learning models, while making a significant impact by contributing to the field of health care and COVID-19 detection through chest X-rays analysis.",
+      "skills": ["Python", "DL", "AI&ML"],
+      "demo": "https://drive.google.com/file/d/1ws2rlJl8cQPKWOoUct9XY1NacmEskKMT/view?usp=sharing",
+      "source": "https://github.com/SravyaSattisetti777"
+    },
+    {
+      "title": "Seat Belt Detection",
+      "imageSrc": "projects/project4.jpg",
+      "description": "This project is a Python-driven venture employing OpenCV, dedicated to enhancing safety through seatbelt detection, fusing coding proficiency with computer vision to enhance road safety in the digital era.",
+      "skills": ["Python", "Open CV"],
+      "demo": "https://drive.google.com/file/d/1dTCx7B1hMc_sb7E79Sx1EhNOg2srKyQ4/view?usp=sharing",
+      "source": "https://github.com/SravyaSattisetti777"
+    },
+    {
+      "title": "Voice Control WheelChair",
+      "imageSrc": "projects/project5.png",
+      "description": "This project is a C-programmed venture, involves creating a voice-controlled wheelchair to enhance safety and facilitate easy handling for individuals with disabilities.",
+      "skills": ["C", "Arduino UNO", "HW-130"],
+      "demo": "https://drive.google.com/file/d/1A9mYy_KNzF7fa-yrAR1L1cDsuOxv3PEH/view?usp=sharing",
+      "source": "https://github.com/SravyaSattisetti777"
+    }
+  ]

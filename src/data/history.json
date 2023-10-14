@@ -1,0 +1,30 @@
+[
+    {
+      "role": "MERN Full Stack Intern",
+      "organisation": "Ethnus",
+      "startDate": "Sept, 2023",
+      "endDate": "Present",
+      "experiences": ["Industrial Internship,", "Strengthened Skills on Full-Stack,", "Gained Knowledge Through Diverse Projects."],
+      "imageSrc": "history/logo1.png"
+    },
+    {
+      "role": "AWS Cloud Practitioner Intern",
+      "organisation": "AWS",
+      "startDate": "Sept, 2023",
+      "endDate": "Prsent",
+      "experiences": [
+        "Industrial Internship,",
+        "Gained Knowledge about Cloud,",
+        "Enhanced Skills and Certified."
+      ],
+      "imageSrc": "history/aws1.png"
+    },
+    {
+      "role": "Web Developer",
+      "organisation": "Bharat Intern",
+      "startDate": "Aug, 2023",
+      "endDate": "Sept, 2023",
+      "experiences": ["Gained Practical Experience,", "Strengthened Problem Solving Skills,", "Enhanced Skill Set and Knowledge."],
+      "imageSrc": "history/logo.png"
+    }
+  ]
