@@ -11,7 +11,7 @@ export const Hero = () => {
         <p className={styles.description}>
         This is Sravya Sattisetti, As an enthusiastic student, I'm extremely passionate about building a career that allows me to bring my knowledge of Computer Science, Software Development, Web Development, and AI & ML ideas into practical work. I'm currently actively pursuing and mastering various skills and languages!
         </p>
-        <a href="https://drive.google.com/file/d/1JN6eb8P_etVLqxAsnCAB9_m5ml1sf1H4/view?usp=sharing" className={styles.contactBtn}>
+        <a href="https://drive.google.com/file/d/1uFd5oJw7uatbsGuvTxF8li-rut4NPVDT/view?usp=sharing" className={styles.contactBtn}>
           My Resume
         </a>
       </div>
