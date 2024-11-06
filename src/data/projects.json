@@ -16,11 +16,11 @@
       "source": "https://github.com/SravyaSattisetti777"
     },
     {
-      "title": "Voice Control WheelChair",
+      "title": "Recipe Radar",
       "imageSrc": "projects/project5.png",
-      "description": "This project is a C-programmed venture, involves creating a voice-controlled wheelchair to enhance safety and facilitate easy handling for individuals with disabilities.",
-      "skills": ["C", "Arduino UNO", "HW-130"],
-      "demo": "https://drive.google.com/file/d/1A9mYy_KNzF7fa-yrAR1L1cDsuOxv3PEH/view?usp=sharing",
-      "source": "https://github.com/SravyaSattisetti777"
+      "description": "Recipe Radar is a MERN-based web app enabling users to explore, create, and manage global recipes with EJS-rendered interfaces and CRUD operations stored in MongoDB.",
+      "skills": ["MERN", "EJS"],
+      "demo": "https://recipe-radar-dff79cc68361.herokuapp.com/",
+      "source": "https://github.com/SravyaSattisetti777/RecipeRadar"
     }
   ]
