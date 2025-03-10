@@ -17,27 +17,27 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3>Software Engineer</h3>
+              <h3>Full Stack Developer</h3>
               <p>
-              Aspiring software engineer fueled by passion and determination, ready to turn code into creative solutions that redefine possibilities.
+              Proficient Full Stack Developer skilled in MERN (MongoDB, Express.js, React.js, Node.js), passionate about building dynamic, scalable, and user-friendly web applications.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
             <div className={styles.aboutItemText}>
-              <h3>Web Developer</h3>
+              <h3>Research & Development (R&D) Enthusiast</h3>
               <p>
-              Aspiring web developer driven by creativity and precision, poised to weave digital experiences that captivate and innovate.
+              Passionate R&D enthusiast exploring AI, Machine Learning, and Embedded Systems, aiming to drive innovation through impactful research.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/uiIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
-              <h3>AI & ML</h3>
+              <h3>AI & ML Engineer</h3>
               <p>
-              Aspiring AI & ML enthusiast with a thirst for knowledge, geared to unlock the mysteries of data and create intelligent systems that shape the future.
+              AI & ML enthusiast with hands-on experience in Deep Learning, TensorFlow, and OpenCV, striving to develop intelligent solutions for real-world challenges.
               </p>
             </div>
           </li>
