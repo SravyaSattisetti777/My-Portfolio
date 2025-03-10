@@ -9,7 +9,7 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, This is Sravya</h1>
         <p className={styles.description}>
-        This is Sravya Sattisetti, As an enthusiastic student, I'm extremely passionate about building a career that allows me to bring my knowledge of Computer Science, Software Development, Web Development, and AI & ML ideas into practical work. I'm currently actively pursuing and mastering various skills and languages!
+        Hi!!, I’m Sravya Sattisetti, an enthusiastic B.Tech student passionate about Full Stack Web Development, AI & ML, and Software Development. I thrive on transforming ideas into real-world solutions by applying my knowledge of Computer Science and Emerging Technologies. With a strong focus on practical learning, I continuously explore new tools, frameworks, and technologies to build impactful projects. My interest in open-source contributions and research development drives me to create innovative solutions that can solve real-world challenges. I’m always eager to collaborate, innovate, and contribute to projects that make a difference. 🚀💡
         </p>
         <a href="https://drive.google.com/file/d/1uFd5oJw7uatbsGuvTxF8li-rut4NPVDT/view?usp=sharing" className={styles.contactBtn}>
           My Resume
