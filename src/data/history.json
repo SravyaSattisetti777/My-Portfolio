@@ -1,5 +1,13 @@
 [
     {
+      "role": "Summer Research Fellowship",
+      "organisation": "Indian National Science Academy",
+      "startDate": "May, 2024",
+      "endDate": "July, 2024",
+      "experiences": ["Internship,", "Open Source Contribution,", "Contributed to #SemanticClimate."],
+      "imageSrc": "history/logo0.png"
+    },
+    {
       "role": "MERN Full Stack Intern",
       "organisation": "Ethnus",
       "startDate": "Sept, 2023",
@@ -18,13 +26,5 @@
         "Enhanced Skills and Certified."
       ],
       "imageSrc": "history/aws1.png"
-    },
-    {
-      "role": "Web Developer",
-      "organisation": "Bharat Intern",
-      "startDate": "Aug, 2023",
-      "endDate": "Sept, 2023",
-      "experiences": ["Gained Practical Experience,", "Strengthened Problem Solving Skills,", "Enhanced Skill Set and Knowledge."],
-      "imageSrc": "history/logo.png"
     }
   ]
